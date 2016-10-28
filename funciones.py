@@ -1,4 +1,5 @@
 from collections import Counter
+
     
 def cuenta_elementos_de_lista(lista):
     """
