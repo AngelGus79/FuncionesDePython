@@ -16,4 +16,4 @@ install:
 script:
   - python -m compileall ./
   - flake8 --max-line-length=160
-- python -m doctest ./funciones.py
+  - python -m doctest ./funciones.py
